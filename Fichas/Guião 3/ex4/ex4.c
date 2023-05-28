@@ -14,7 +14,6 @@ int mySystem(char *commandLine)
     {
         args[i] = command;
         command = strtok(NULL, " ");
-        i++;
     }
     args[i] = NULL;
     
