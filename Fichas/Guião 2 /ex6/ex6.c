@@ -13,7 +13,7 @@ void generateMatrix(int matrix[SIZELINES][SIZECOL])
     {
         for (int j = 0; j < SIZECOL; j++)
         {
-            matrix[i][j] = j;
+            matrix[i][j] = random() % 500;
         }
     }
 }
