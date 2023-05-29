@@ -1,4 +1,0 @@
-This is an error!
-: No such file or directory
-This is an error!
-: Invalid argument

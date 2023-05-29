@@ -1,4 +1,0 @@
-This is an error!
-: Success
-This is an error!
-: Invalid argument
